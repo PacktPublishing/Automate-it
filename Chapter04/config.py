@@ -1,0 +1,5 @@
+TWILIO_ACCOUNT_SID = '<Your Account SID>'
+TWILIO_AUTH_TOKEN = '<Your Auth Toke>'
+CALLERID = '<Caller ID>'
+MYNUMBER = '<Your number>'
+BASE_URL = 'https://<your ngrok ID>.ngrok.io'
