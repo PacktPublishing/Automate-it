@@ -1,0 +1,29 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- chat.aiml -->
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Hi, hello!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHO ARE *</pattern>
+        <template>
+            <random>
+                <li>I'm a bot!</li>
+                <li>Bad guy!</li>
+                <li>My name is superman!</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>AWESOME *</pattern>
+        <template>
+            You're nice too! :)
+        </template>
+    </category>
+
+</aiml>
