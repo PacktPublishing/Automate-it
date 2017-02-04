@@ -1,4 +1,4 @@
-# Automate-it
+# Automate it
 This is the code repository for [Automate it!](https://www.packtpub.com/application-development/automate-it), published by Packt. It contains all the necessary code files.
 
 ##What You Will Learn:
