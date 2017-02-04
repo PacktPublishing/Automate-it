@@ -13,4 +13,4 @@ This is the code repository for [Automate it!](https://www.packtpub.com/applicat
 * Generate reports using Pandas
 
 ###Note
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wBGcwQ/viewform) if you have any feedback or suggestions.
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
