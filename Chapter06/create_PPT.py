@@ -1,5 +1,3 @@
-__author__ = 'Chetan'
-
 from pptx import Presentation
 
 prs = Presentation()

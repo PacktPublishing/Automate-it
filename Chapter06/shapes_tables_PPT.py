@@ -1,10 +1,9 @@
-__author__ = 'Chetan'
-
 from pptx import Presentation
 from pptx.enum.shapes import MSO_SHAPE
 from pptx.util import Inches
 from pptx.dml.color import RGBColor
 
+#Add slides and shapes
 prs = Presentation()
 title_only_slide_layout = prs.slide_layouts[5]
 slide = prs.slides.add_slide(title_only_slide_layout)
@@ -23,6 +22,7 @@ shape2.text = 'Home'
 
 prs.save('shapes.pptx')
 
+#Add table to slides
 
 from pptx import Presentation
 from pptx.util import Inches

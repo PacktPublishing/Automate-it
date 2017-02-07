@@ -1,5 +1,3 @@
-__author__ = 'Chetan'
-
 from pptx import Presentation
 from pptx.chart.data import ChartData
 from pptx.enum.chart import XL_CHART_TYPE

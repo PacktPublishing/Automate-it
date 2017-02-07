@@ -1,5 +1,3 @@
-__author__ = 'Chetan'
-
 from twython import Twython
 
 APP_KEY = ''

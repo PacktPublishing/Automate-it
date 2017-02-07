@@ -1,5 +1,3 @@
-__author__ = 'Chetan'
-
 offers_sydney = {
     "content":"Weekend Offers, avail 30% discount today!",
     "day":"2016-08-27",

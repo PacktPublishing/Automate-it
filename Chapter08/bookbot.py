@@ -1,5 +1,3 @@
-__author__ = 'Chetan'
-
 from flask import Flask
 from flask import request
 import requests, json
@@ -12,7 +10,7 @@ def send_weburl(payload, recipient_id):
     }
     token = {
         "access_token":
-        "EAABd8lloNvgBANCLXFlG0ZCa0xoahv5VdkIOVSEMnHWpJeUvaUupfK3YIZC0PEZAifksfcPDuZB2dtPzVUDnZBYHL9hXZCtsrurDD6QMxge7ZC1viy33OvtPYkPSw8sQZC5UwZCxGYHqf4ahBtNvbTBqIJZAWVpaAmfvfVLnGEXZCOJ3QZDZD"
+        "TOKEN"
     }
 
     if payload == 'Python':
@@ -86,7 +84,7 @@ def send_postback(recipient_id):
     }
     token = {
         "access_token":
-        "EAABd8lloNvgBANCLXFlG0ZCa0xoahv5VdkIOVSEMnHWpJeUvaUupfK3YIZC0PEZAifksfcPDuZB2dtPzVUDnZBYHL9hXZCtsrurDD6QMxge7ZC1viy33OvtPYkPSw8sQZC5UwZCxGYHqf4ahBtNvbTBqIJZAWVpaAmfvfVLnGEXZCOJ3QZDZD"
+        "TOKEN"
     }
 
     data = json.dumps({

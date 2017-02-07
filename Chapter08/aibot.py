@@ -1,5 +1,3 @@
-__author__ = 'Chetan'
-
 import aiml
 
 # Create the kernel and learn AIML files
